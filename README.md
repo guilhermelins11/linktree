@@ -1,10 +1,10 @@
 # --- Linktree --- 
 
 ## Projeto feito coma seguinte stack:
-´´ 
+``
 React |
 HTML |
 CSS |
-Javascript |´´
+Javascript | `` 
 
 ## Feito para integrar plataformas da cliente pra melhor visualização do seu escopo
